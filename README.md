@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a frontend project
+- 🌱 I’m currently learning data structure & algorithm
+- 👯 I’m looking to collaborate on any frontend project
+- 🤔 I’m looking for help with creating soloution 
+- 💬 Ask me about via email
+- 📫 How to reach me: @ibukunolufisayo8888@gmail.com
+- 😄 Pronouns: him
+- ⚡ Fun fact: i am a good chef and a better dancer
