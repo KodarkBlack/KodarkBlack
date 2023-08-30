@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on a frontend project<br>🌱 I’m currently learning data structure & algorithm<br>👯 I’m looking to collaborate on any frontend project<br>🤔 I’m looking for help with creating solutions<br>💬 Ask me about via email<br>📫 How to reach me: @ibukunolufisayo8888@gmail.com<br>😄 Pronouns: him<br>⚡ Fun fact: I am a good chef and a better dancer<br> 📫 Certified Frontend developer.
+🔭 I’m currently working on a frontend project<br>🌱 I’m currently learning data structure & algorithm (nodejs, express) <br>👯 I’m looking to collaborate on any frontend project<br>🤔 I’m looking for help with creating solutions<br>💬 Ask me about via email<br>📫 How to reach me: @ibukunolufisayo8888@gmail.com<br>😄 Pronouns: him<br>⚡ Fun fact: I am a good chef and a better dancer<br> 📫 Certified Frontend developer.
 
 # I am undergoing rigorous training with alx to become a proficient software engineer. Despite the difficulties, we at alx are committed to pushing ourselves beyond our limits. 
 
